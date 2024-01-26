@@ -1,0 +1,24 @@
+ALS,Axis left shift,39732003
+ARS,Axis right shift,47665007
+RBBB,right bundle branch block,59118001
+TWO,T wave opposite,59931005
+LVH,left ventricle hypertrophy,164873001
+AFIB,Atrial Fibrillation,164889003
+AF,Atrial Flutter,164890007
+AQW,abnormal Q wave,164917005
+STE,ST extension,164930006
+TWC,T wave Change,164934002
+LVQRSAL,lower voltage QRS in all lead,251146004
+1AVB,1 degree atrioventricular block,270492004
+APB,atrial premature beats,284470004
+SB,Sinus Bradycardia,426177001
+SVT,Supraventricular Tachycardia,426761007
+SR,Sinus Rhythm,426783006
+ST,Sinus Tachycardia,427084000
+SA,Sinus Irregularity,427393009
+STTC,ST-T Change,428750005
+STDD,ST drop down,429622005
+IDC,Interior differences conduction,698252002
+IVB,Intraventricular block,698252002
+IDC,Interior differences conduction,698252002
+IVB,Intraventricular block,698252002
